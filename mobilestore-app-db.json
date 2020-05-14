@@ -1,0 +1,60 @@
+{
+  "Products": [
+    {
+      "Name": "POCO X2 (Atlantis Blue)",
+      "description": "<p>6 GB RAM | 64 GB ROM | Expandable Upto 512 GB</p> <p> 16.94 cm (6.67 inch) Full HD+ Display</p> <p>64MP + 8MP + 2MP + 2MP | 20MP + 2MP Dual Front Camera</p> </p>4500 mAh  Lithium-ion Polymer Battery</p> <p>Qualcomm Snapdragon 730G Processor</p>",
+      "img":"https://rukminim1.flixcart.com/image/312/312/k65d18w0/mobile/4/k/4/poco-x2-mzb9011in-original-imafzz2hbfkvftm5.jpeg?q=70",
+      "price": 16999,
+      "id": 1
+    },
+    {
+      "Name": "POCO X2 (Atlantis Blue)",
+      "description": "<p>6 GB RAM | 64 GB ROM | Expandable Upto 512 GB</p> <p> 16.94 cm (6.67 inch) Full HD+ Display</p> <p>64MP + 8MP + 2MP + 2MP | 20MP + 2MP Dual Front Camera</p> </p>4500 mAh  Lithium-ion Polymer Battery</p> <p>Qualcomm Snapdragon 730G Processor</p>",
+      "img":"https://rukminim1.flixcart.com/image/312/312/juk4gi80/mobile/e/f/f/realme-c2-rmx1941-original-imaffnumzmbgkyvg.jpeg?q=70",
+      "price": 15999,
+      "id": 2
+    },
+    {
+      "Name": "POCO X2 (Atlantis Blue)",
+      "description": "<p>6 GB RAM | 64 GB ROM | Expandable Upto 512 GB</p> <p> 16.94 cm (6.67 inch) Full HD+ Display</p> <p>64MP + 8MP + 2MP + 2MP | 20MP + 2MP Dual Front Camera</p> </p>4500 mAh  Lithium-ion Polymer Battery</p> <p>Qualcomm Snapdragon 730G Processor</p>",
+      "img":"https://rukminim1.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/g/v/r/one-macro-64-a-pags0005in-motorola-4-original-imafh2fytzgrp7rt.jpeg?q=70",
+      "price": 14999,
+      "id": 3
+    },
+    {
+      "Name": "POCO X2 (Atlantis Blue)",
+      "description": "<p>6 GB RAM | 64 GB ROM | Expandable Upto 512 GB</p> <p> 16.94 cm (6.67 inch) Full HD+ Display</p> <p>64MP + 8MP + 2MP + 2MP | 20MP + 2MP Dual Front Camera</p> </p>4500 mAh  Lithium-ion Polymer Battery</p> <p>Qualcomm Snapdragon 730G Processor</p>",
+      "img":"https://rukminim1.flixcart.com/image/312/312/k65d18w0/mobile/4/k/4/poco-x2-mzb9011in-original-imafzz2hbfkvftm5.jpeg?q=70",
+      "price": 26999,
+      "id": 4
+    },
+    {
+      "Name": "POCO X2 (Atlantis Blue)",
+      "description": "<p>6 GB RAM | 64 GB ROM | Expandable Upto 512 GB</p> <p> 16.94 cm (6.67 inch) Full HD+ Display</p> <p>64MP + 8MP + 2MP + 2MP | 20MP + 2MP Dual Front Camera</p> </p>4500 mAh  Lithium-ion Polymer Battery</p> <p>Qualcomm Snapdragon 730G Processor</p>",
+      "img":"https://rukminim1.flixcart.com/image/312/312/k65d18w0/mobile/4/k/4/poco-x2-mzb9011in-original-imafzz2hbfkvftm5.jpeg?q=70",
+      "price": 16999,
+      "id": 5
+    }  
+    
+  ],
+  "User":[
+    {
+      "Name":"bipin kumar",
+      "userAddress":"",
+      "userPhoneNo":"",
+      "userPassword":"",
+      "userCartId":"",
+      "id": 1
+    }
+  ],
+
+  "Cart":[
+    {
+      "UserId":"bipin kuamar",
+      "products":[],
+      "userPhoneNo":"",
+      "ordered":true,
+      "id": 1
+    }
+  ]
+}
